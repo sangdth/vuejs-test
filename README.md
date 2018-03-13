@@ -5,7 +5,7 @@ This is a preliminary test to determine the technical ability of developers appl
 Before starting, please read carefully through the instructions below. You are free to look up any information online and offline and spend as much time on the test as you deem necessary. Please direct any questions to Sang Dang at
 sang.dang@polku.io.
 
-Your task is to create a small signup form and a list of participants with
+Your task is to create a small signin form and a list of participants with
 [Vue](https://github.com/vuejs/vue) that meets the following
 requirements:
 
