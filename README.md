@@ -10,7 +10,7 @@ Your task is to create a small signin form and a list of participants with
 requirements:
 
 1. Use [Vue CLI](https://github.com/vuejs/vue-cli) to scaffold your application
-2. Generate 10 participants that contain randomized values for the following properties: *id*, *name*, *email address*, and *phone number*
+2. Generate 10 participants that contain randomized values for the following properties: *id*, *name*, *email address*
 3. Render a table that displays the participants on individual rows
 4. Create a form for adding new participants to the table (remember to validate the form)
 5. Make each participant editable by clicking on a table cell (inline editing)
